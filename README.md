@@ -2,6 +2,9 @@
 
 This project implements the TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) method as a command-line Python program.
 
+## PyPI Package
+https://pypi.org/project/topsis-pariza-102303391/
+
 ## Requirements
 - Python 3
 - pandas
@@ -23,3 +26,4 @@ Output:
 1) Original data
 2) TOPSIS Score
 3) Rank
+
