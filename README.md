@@ -11,15 +11,15 @@ This project implements the TOPSIS (Technique for Order Preference by Similarity
 ```bash
 python topsis.py <inputFile> <weights> <impacts> <outputFile>
 
-EXAMPLE:
+## EXAMPLE:
 python topsis.py Topsis-Dataset.csv "1,1,1,1" "+,-,-,+" output.csv
 
-Input Format:
+##Input Format:
 1) CSV file
 2) First column: alternative names
 3) Remaining columns: numeric criteria values
 
-Output:
+## Output:
 1) Original data
 2) Topsis Score
 3) Rank
