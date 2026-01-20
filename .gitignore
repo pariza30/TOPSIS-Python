@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# CSV files (generated)
+input.csv
+result.csv
+output*.csv
+
+# macOS
+.DS_Store
+
