@@ -27,3 +27,10 @@ Output:
 2) TOPSIS Score
 3) Rank
 
+### Web Service Link
+
+The web-based TOPSIS service can be accessed locally after starting the servers:
+
+🔗 **Web Interface:** http://localhost:8000
+
+
