@@ -5,6 +5,14 @@ This project implements the TOPSIS (Technique for Order Preference by Similarity
 ## PyPI Package
 https://pypi.org/project/topsis-pariza-102303391/
 
+## Web Service Link
+
+The project also provides a web-based TOPSIS service.
+
+After starting the backend and frontend servers, the application can be accessed locally at:
+
+🔗 **http://localhost:8000**
+
 ## Requirements
 - Python 3
 - pandas
@@ -27,10 +35,6 @@ Output:
 2) TOPSIS Score
 3) Rank
 
-### Web Service Link
 
-The web-based TOPSIS service can be accessed locally after starting the servers:
-
-🔗 **Web Interface:** http://localhost:8000
 
 
