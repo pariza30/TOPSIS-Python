@@ -15,7 +15,7 @@ https://pariza30.github.io/TOPSIS-Python/
 > Note: This frontend connects to a backend that runs locally or on a cloud server.
 
 
-## ⚙️ Backend (Flask API – Local Run)
+## Backend (Flask API – Local Run)
 
 ### Install dependencies
 ```bash
