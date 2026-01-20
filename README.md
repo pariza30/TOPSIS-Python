@@ -17,10 +17,10 @@ https://pariza30.github.io/TOPSIS-Python/
 
 ## ⚙️ Backend (Flask API – Local Run)
 
-### 1️⃣ Install dependencies
+### Install dependencies
 ```bash
 pip install flask flask-cors pandas numpy
-
+```
 
 ## Requirements
 - Python 3
@@ -30,8 +30,8 @@ pip install flask flask-cors pandas numpy
 ## How to Run
 ```bash
 python topsis.py <inputFile> <weights> <impacts> <outputFile>
-
-EXAMPLE:
+```
+### EXAMPLE:
 python topsis.py Topsis-Dataset.csv "1,1,1,1" "+,-,-,+" output.csv
 
 Input Format:
