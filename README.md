@@ -5,13 +5,22 @@ This project implements the TOPSIS (Technique for Order Preference by Similarity
 ## PyPI Package
 https://pypi.org/project/topsis-pariza-102303391/
 
-## Web Service Link
+##  Web Service (Frontend)
 
-The project also provides a web-based TOPSIS service.
+The web-based TOPSIS service frontend is deployed using **GitHub Pages**.
 
-After starting the backend and frontend servers, the application can be accessed locally at:
+🔗 **Live Web Interface:**  
+https://pariza30.github.io/TOPSIS-Python/
 
-🔗 **http://localhost:8000**
+> Note: This frontend connects to a backend that runs locally or on a cloud server.
+
+
+## ⚙️ Backend (Flask API – Local Run)
+
+### 1️⃣ Install dependencies
+```bash
+pip install flask flask-cors pandas numpy
+
 
 ## Requirements
 - Python 3
